@@ -1,5 +1,2 @@
-# Web-Scraping-of-cars24-in-python
-·	Scraping various data from website called cars24 with help of python
-·	After filtering and analyzing the data than it was Sorted in csv format 
-·	Then with PostgreSQL performed various task
-·	Used: PostgreSQL , Python
+# Web-Scraping-in-Python-
+I used Python 3  to Web scraping a site  Car24  to get data of different  cars and Save it to CSV File. 
